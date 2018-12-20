@@ -1,0 +1,41 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "_buffer-equal-constant-time@1.0.1@buffer-equal-constant-time": "^1.0.1",
+    "_ecdsa-sig-formatter@1.0.10@ecdsa-sig-formatter": "^1.0.10",
+    "_jsonwebtoken@8.3.0@jsonwebtoken": "^8.3.0",
+    "_jws@3.1.5@jws": "^3.1.5",
+    "_lodash.isnumber@3.0.3@lodash.isnumber": "^3.0.3",
+    "_lodash.isboolean@3.0.3@lodash.isboolean": "^3.0.3",
+    "_lodash.includes@4.3.0@lodash.includes": "^4.3.0",
+    "_jwa@1.1.6@jwa": "^1.1.6",
+    "_lodash.isstring@4.0.1@lodash.isstring": "^4.0.1",
+    "_lodash.isplainobject@4.0.6@lodash.isplainobject": "^4.0.6",
+    "buffer-equal-constant-time": "^1.0.1",
+    "ecdsa-sig-formatter": "^1.0.10",
+    "jws": "^3.1.5",
+    "jsonwebtoken": "^8.3.0",
+    "jwa": "^1.1.6",
+    "lodash.includes": "^4.3.0",
+    "_lodash.once@4.1.1@lodash.once": "^4.1.1",
+    "lodash.isnumber": "^3.0.3",
+    "lodash.isboolean": "^3.0.3",
+    "lodash.isstring": "^4.0.1",
+    "_lodash.isinteger@4.0.4@lodash.isinteger": "^4.0.4",
+    "lodash.isinteger": "^4.0.4",
+    "lodash.once": "^4.1.1",
+    "lodash.isplainobject": "^4.0.6",
+    "_ms@2.1.1@ms": "^2.1.1",
+    "_safe-buffer@5.1.2@safe-buffer": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
